@@ -51,7 +51,7 @@ body {
 	float: left;
 	clear: left;
 	margin-left: 230px;
-	width: 120px;
+	width: 240px;
 	background-color: black;
 	padding: 80px 80px;
 	margin-top: 40px;
@@ -59,36 +59,35 @@ body {
 #music a img{
 	float: left;
 	margin-left: 100px;
-	width: 100px;
+	width: 220px;
 	background-color: black;
 	padding: 80px 80px;
 	margin-top: 40px;
 }
 #vids a img{
 	float: left;
-	margin-left: 100px;
-	width: 120px;
+	margin-left: 230px;
+	width: 240px;
 	background-color: black;
 	padding: 80px 80px;
 	margin-top: 40px;
 }
 #vgam a img{
 	float: left;
-	clear: left;
-	margin-left: 200px;
-	width: 200px;
+	margin-left: 100px;
+	width: 220px;
 	background-color: black;
-	padding: 20px 400px;
+	padding: 80px 80px;
 	margin-top: 40px;
 }
 #home a img:hover {
-	width: 210px;
+	filter: brightness(50%);
 }
 #projects a img:hover {
-	width: 260px;
+	filter: brightness(50%);
 }
 #about a img:hover {
-	width: 260px;
+	filter: brightness(50%);
 }
 body h1{
 	color: #e3effe;
@@ -346,7 +345,7 @@ body p{
 }
 #reel video{
 	width: 800px;
-float: center;
+	margin-left: 230px;
 }
 #links2 a{
 	color: #e3effe;
@@ -354,6 +353,10 @@ float: center;
 	float: left;
 	clear: left;
 	margin-left: 220px;
+}
+#titlegame p{
+	float: center;
+}
 
 
 

@@ -357,6 +357,16 @@ body p{
 #titlegame p{
 	float: center;
 }
-
+#reel2 video{
+	float: left;
+	clear: left;
+	margin-left: 230px;
+	margin-bottom: 20px;
+	width: 800px;
+}
+#title2d p{
+	margin-left: 320px;
+	float: left;
+}
 
 

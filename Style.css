@@ -368,5 +368,16 @@ body p{
 	margin-left: 320px;
 	float: left;
 }
+#reelVFX video{
+	float: left;
+	clear: left;
+	margin-left: 230px;
+	margin-bottom: 20px;
+	width: 800px;
+}
+#titleVFX p{
+	margin-left: 320px;
+	float: left;
+}
 
 

@@ -1,6 +1,5 @@
 body {
-	background-image: url("background.png");
-	background-repeat: no-repeat;
+	background-color: black;
 	background-size: cover;
 }
 
@@ -379,5 +378,8 @@ body p{
 	margin-left: 320px;
 	float: left;
 }
-
+#NLink a{
+	color: #e3effe;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
 
